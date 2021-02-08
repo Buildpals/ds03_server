@@ -12,7 +12,7 @@
     "bootstrap": "^4.4.1",
     "datatables.net-bs4": "^1.10.20",
     "intl-tel-input": "^16.0.7",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.0",
     "turbolinks": "^5.2.0"
   },
